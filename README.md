@@ -1,6 +1,8 @@
 # Cube Timer
 Cube Timer is a simple Python GUI application that serves as a timer for (Rubik's) cubers. You can think of it as an online StackMat timer. It provides a randomly generated scramble and keeps track of your average and best times.
 
+![interface](https://github.com/Puepis/Cube-Timer/blob/master/interface.PNG)
+
 ## Getting Started
 To run **Cube Timer** on your own computer, you can clone this Github repository and sync it with your local machine. Run the `Shoot-A-Mole.py` file to launch the application!
 
